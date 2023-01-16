@@ -1,0 +1,80 @@
+{
+  "Dentistas": [
+    {
+      "id": 1,
+      "nome": "Doutor anderson",
+      "horarios": "8:00 as 13:00",
+      "dias": "segunda a sexta"
+    },
+    {
+      "id": 2,
+      "nome": "Doctora flavia",
+      "horarios": "14:00 as 19:00",
+      "dias": "segunda a sexta"
+    }, {
+      "id": 3,
+      "nome": "Doctor william",
+      "horarios": "8:00 as 13:00",
+      "dias": "segunda a sabado"
+    }, {
+      "id": 4,
+      "nome": "Doutora leila",
+      "horarios": "14:00 as 19:00",
+      "dias": "segunda a sabado"
+    }
+  ],
+
+  "Tratamentos": [
+    {
+      "id": 1,
+      "tratamento": "abturação de caren",
+      "Preço": "R$90,00",
+      "Dias":"Terça e quinta"
+    },
+    {
+      "id": 2,
+      "tratamento": "extração de sisos",
+      "Preço": "R$400,00",
+      "Dias":"segundas feiras"
+    },
+    {
+      "id": 3,
+      "tratamento": "canal",
+      "Preço": "R$200,00",
+      "Dias":"quarta e sexta"
+    },
+    {
+      "id": 4,
+      "tratamento": "aparelho dentario",
+      "Preço": "R$120,00",
+      "Dias":"segunda a sabado"
+    }
+  ],
+
+  "Unidades": [
+    {
+      "id": 1,
+      "Local": "Campo grande",
+      "Funcionamento":" Segunda à sexta das 8:00 as 18:30.",
+      "Contato":"21 928337278" 
+    },
+    {
+      "id": 2,
+      "Local": "bangu",
+      "Funcionamento":" Segunda à sexta das 8:00 as 18:30.",
+      "Contato":"21 939345677" 
+    },
+    {
+      "id": 3,
+      "Local": "santa cruz",
+      "Funcionamento":" Segunda à sabado das 8:00 as 19:00.",
+      "Contato":"21 993498844" 
+    },
+    {
+      "id": 4,
+      "Local": "madureira",
+      "Funcionamento":" Segunda à sabado das 8:00 as 19:00.",
+      "Contato":"21 988236533" 
+    }
+  ]
+}
